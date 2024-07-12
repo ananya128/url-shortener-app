@@ -1,0 +1,18 @@
+{
+  "name": "analytics-service",
+  "version": "1.0.0",
+  "description": "Microservice for collecting and analyzing URL usage data",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.19.2",
+    "mongoose": "^5.13.22",
+    "request-ip": "^2.1.3",
+    "useragent": "^2.3.0"
+  }
+}
