@@ -12,10 +12,17 @@ The URL Shortener App is a full-stack web application that allows users to short
 - Share shortened URLs via WhatsApp and Facebook
 
 ## Screenshots
+### Home Page
+![Home Page](./screenshots/screenshot_home_page.png)
+
+
+### Shortened URL, Analytics and Sharing Options
+![Shortened URL,Analytics and Sharing](./screenshots/screenshot_shortened_url_analytics_and_sharing.png)
+
 
 ## Video Demonstration
 Watch the video below to see the URL Shortener App in action:
-https://drive.google.com/file/d/1ICvRMLIPkOEjW0BhFemy8BLi_jUnVAYg/view?usp=sharing
+[Watch the Demo Video](https://drive.google.com/file/d/1ICvRMLIPkOEjW0BhFemy8BLi_jUnVAYg/view?usp=sharing)
 
 ## Technologies Used
 
